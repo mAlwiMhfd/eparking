@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510280052846",
+    "project_id": "e-parking-nf",
+    "storage_bucket": "e-parking-nf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510280052846:android:a517defad2189d35eab67f",
+        "android_client_info": {
+          "package_name": "com.example.e_parkingnf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510280052846-p12oho5g66jhjoeklhtqjvul9tc3s9ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo4Onx0pql7zWdtRX2fhxmKymrAzD6S_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510280052846-p12oho5g66jhjoeklhtqjvul9tc3s9ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

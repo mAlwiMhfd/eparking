@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Parking NF</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string-array name="fragments">
+        <item>Gedung A</item>
+        <item>Gedung B1</item>
+        <item>Gedung B2</item>
+    </string-array>
+</resources>
